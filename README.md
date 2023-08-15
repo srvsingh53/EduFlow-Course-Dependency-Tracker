@@ -15,13 +15,13 @@ This C++ program helps you manage course dependencies and provides insights into
 - Standard C++ library
 - Input: Course names, number of pre-requisites, and their names
 
-##Usage
+## Usage
 
     1.Run the executable: ./course_dependency_graph
     2.Enter the number of courses and their details as prompted.
     3.The program will display the topological ordering of courses or indicate if a cycle is detected.
 
-##Features
+## Features
     1. Input the number of courses and their prerequisites.
     2. Detects cycles in the course dependency graph.
     3. Calculates the topological ordering of courses.
